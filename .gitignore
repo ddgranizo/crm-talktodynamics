@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Main/crm-talktodynamics/.vs/crm-talktodynamics/v15
+/Main/crm-talktodynamics/packages
+/Main/crm-talktodynamics/src/DD.Crm.TalkToDynamics/bin
+/Main/crm-talktodynamics/src/DD.Crm.TalkToDynamics/obj
+/Main/crm-talktodynamics/.vs/config
+/Main/crm-talktodynamics/src/DD.Crm.TalkToDynamics/secrets.json
